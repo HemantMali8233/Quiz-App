@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary purple palette similar to the reference UI -->
+    <color name="colorPrimary">#7C7E9D</color>
+    <color name="colorPrimaryDark">#4C5372</color>
+    <color name="colorAccent">#E2D4E0</color>
+
+    <!-- Background gradient colors -->
+    <color name="bg_start">#FFFDF6</color>
+    <color name="bg_end">#FFFDF6</color>
+
+    <!-- Design colors for new Login/Signup -->
+    <color name="black_bg">#000000</color>
+    <color name="coral_red">#FF4D4D</color>
+    <color name="edit_text_bg">#1A1A1A</color>
+    <color name="edit_text_border">#333333</color>
+    <color name="text_hint_color">#666666</color>
+
+    <!-- Card and text colors -->
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#4C5372</color>
+    <color name="text_secondary">#949AB1</color>
+
+    <!-- Home Page Card Colors (Updated for vibrancy) -->
+    <color name="card_purple">#6366F1</color>
+    <color name="card_purple_light">#818CF8</color>
+    <color name="card_green">#10B981</color>
+    <color name="card_green_light">#34D399</color>
+    <color name="card_orange">#F59E0B</color>
+    <color name="card_orange_light">#FBBF24</color>
+    <color name="card_red">#EF4444</color>
+    <color name="card_blue">#3B82F6</color>
+    <color name="king_card_bg">#6366F1</color>
+    <color name="king_card_light">#818CF8</color>
+    <color name="home_bg">#F8F9FE</color>
+    
+    <!-- Header Colors -->
+    <color name="points_bg">#6366F1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_text">#9CA3AF</color>
+    <color name="dark_text">#1F2937</color>
+
+    <!-- Leaderboard Specific Colors -->
+    <color name="leaderboard_header_start">#312E81</color>
+    <color name="leaderboard_header_end">#1E1B4B</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#CD7F32</color>
+    <color name="rank_1_badge">#10B981</color>
+    <color name="rank_2_badge">#3B82F6</color>
+    <color name="rank_3_badge">#F59E0B</color>
+</resources>

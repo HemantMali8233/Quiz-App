@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+        Theme is defined in values/styles.xml as Theme.QuizApp.
+        This file is kept minimal to avoid duplicate style names.
+    -->
+</resources>
